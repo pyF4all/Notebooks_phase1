@@ -22,7 +22,7 @@ Constantly under construction: This library is young. It is a current outcome of
 
 The current main features of pyF4all are:
 
-1. Scripts for extracting PB input data from output files of common molecular dynamics (both all-atom and coarse-grained-CG) trajectories such as GROMACS [Gromacs2015]_, LAMMPS [Lammps1995]_, ESPResSo++ [e++2019]_, AMBER [Amber2013]_, VOTCA [Votca2015]_ among others. Including also the mesh (.face, .vert) creation required by the PB-solver by using e.g. nanoshaper.
+1. Scripts for extracting PB input data from output files of common molecular dynamics (both all-atom and coarse-grained-CG) trajectories such as GROMACS [Gromacs2015]_, LAMMPS [Lammps1995]_, ESPResSo++ [epp2019]_ , AMBER [Amber2013]_, VOTCA [Votca2015]_ among others. Including also the mesh (.face, .vert) creation required by the PB-solver by using e.g. nanoshaper.
 2. Jupyter-Notebook interface between PB-solver and the molecular dynamics packages.
 3. Development of new methodologies for mapping positions of the coarse-grained particles to the explicit atomistic representations.
 4. Estimators and samplers for obtaining the free energies uncertainty of the PB method.
@@ -46,8 +46,8 @@ References
     
 .. [Lammps1995] Plimpton, S. (1995), Fast parallel algorithms for short-range molecular dynamics, J. Comput. Phys. 117.
 
-.. [e++2019] Guzman, H. V., Tretyakov, N., Kobayashi, H., Kreis, K., Fogarty, A., Kranjak, J., Junghans, C., Kremer, K. 
-    and Stuehn,T., ESPResSo++ 2.0: Advanced methods for multiscale molecular simulation, (2019) , Comput. Phys.
+.. [epp2019] Guzman, H. V., Tretyakov, N., Kobayashi, H., Kreis, K., Fogarty, A., Kranjak, J., Junghans, C., Kremer, K. 
+    and Stuehn,T.,(2019), ESPResSo++ 2.0: Advanced methods for multiscale molecular simulation,  , Comput. Phys.
     Comm., 238, 66–76.
 
 .. [Amber2013] Salomon-Ferrer, R., Case, D.A., Walker, R.C., (2013), An overview of the Amber biomolecular simulation package. WIREs Comput. Mol. Sci. 3, 198-210.
