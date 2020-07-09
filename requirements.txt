@@ -1,0 +1,8 @@
+# Requirements for running the Jupyter Notebook
+# 
+#
+matplotlib>=3.2.1
+numpy>=1.18.5
+scipy>=1.4.1
+plotly==4.8.2
+glob==3.2.7
