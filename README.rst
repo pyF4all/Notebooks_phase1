@@ -55,3 +55,7 @@ References
 .. [Votca2015] Mashayak SY, Jochum MN, Koschke K, Aluru NR, Rühle V, Junghans C (2015), Relative Entropy and Optimization-Driven Coarse-Graining Methods in VOTCA. PLoS ONE 10(7): e0131754
 
 .. [Amaro2020] Amaro, R. E. and Mulholland, A. J., (2020), A Community Letter Regarding Sharing Biomolecular Simulation Data for COVID-19, https://doi.org/10.1021/acs.jcim.0c00319.
+
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/pyF4all/Notebooks_phase1/master
